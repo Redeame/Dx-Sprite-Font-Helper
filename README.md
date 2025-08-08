@@ -13,10 +13,11 @@ You can install the required dependencies using pip:
 ## Usage:
 Run the script with the following command:
 
-`python BitMapMaker.py --size <size> --output <output_file> <input_file>`<br><br>
+`python BitMapMaker.py --size <size> --output <output_file> --cols <columns> <input_file>`<br><br>
 
-`<size>` - The font size to render.<br>
-`<output_file>` - The filename for the output PNG bitmap.<br>
+`<size>` - The font size to render. (Default : 64)<br>
+`<output_file>` - The filename for the output PNG bitmap. (Default : "spritesheet.png")<br>
+`<columns>` - Columns in a grid (Default : 16)<br>
 `<input_file>` - The path to the input TTF font file.<br>
 <br>
 Example:<br>
