@@ -2,7 +2,7 @@
 is a Python application that converts TrueType Font (TTF) files into bitmap PNG images compatible with the DirectX Tool Kit's MakeSpriteFont tool.
 
 ## Dependencies:
-*freetype-py
+*freetype-py<br>
 *Pillow
 
 You can install the required dependencies using pip:
