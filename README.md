@@ -17,6 +17,7 @@ Run the script with the following command:
 ```
 python BitMapMaker.py --size <size> --output <output_file> <input_file>
 ```
+
 <size> - The font size to render.
 <output_file> - The filename for the output PNG bitmap.
 <input_file> - The path to the input TTF font file.
